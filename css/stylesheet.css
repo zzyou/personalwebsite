@@ -20,17 +20,23 @@ a {
 	text-decoration: none;
 }
 
-#name {
-	color: #B56357;
+#profilepic {
+	border-radius: 50%;
+  padding: 20px;
 }
 
-#profile_pic {
-	border-radius: 1%;
+#about {
+  padding-bottom:20px;
 }
 
-#center {
-	display: inline-block;
-	width: 50%;
+#aboutcontent {
+  font-size: 18px;
+  padding: 70px 25px;
+  margin: 20px 0;
+}
+
+#experience {
+  padding: 20px;
 }
 
 body {
@@ -39,7 +45,7 @@ body {
 }
 
 header {
-  padding: 20px 0;
+  padding: 20px 10px;
 }
 
 header .row,
@@ -69,7 +75,7 @@ header p {
   background-image: url('../images/sky.jpg');
   background-size: cover;
   color: #ffffff;
-  height: 500px;
+  height: 600px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
