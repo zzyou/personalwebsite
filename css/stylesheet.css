@@ -26,7 +26,7 @@ a {
 }
 
 #about {
-  padding-bottom:20px;
+  padding: 40px 0;
 }
 
 #aboutcontent {
@@ -36,7 +36,11 @@ a {
 }
 
 #experience {
-  padding: 20px;
+  padding: 40px 0;
+}
+
+.col-sm-3, .col-sm-9 {
+  padding: 20px 0;
 }
 
 body {
