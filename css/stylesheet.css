@@ -123,6 +123,10 @@ section .row img {
   margin: 0 0 30px;
 }
 
+.navbar-fixed-bottom {
+  background-color: white;
+}
+
 footer {
   font-size: 12px;
   padding: 20px 0;
