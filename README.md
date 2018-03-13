@@ -1,3 +1,3 @@
 # Personal Website
-This is my personal website.
-It was the final project for MotherCoders' training program in 2016.
+<p>This is my personal website.</p>
+<p>It was the final project for MotherCoders' training program in 2016.</p>
