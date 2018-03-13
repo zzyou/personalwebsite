@@ -1,2 +1,2 @@
-# personalwebsite
-This is my personal website. In process.
+# Personal Website
+This is my personal website, as the final project for MotherCoders' program in 2016.
