@@ -76,7 +76,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('../images/sky.jpg');
+  background-image: url('images/sky.JPG');
   background-size: cover;
   color: #ffffff;
   height: 600px;
