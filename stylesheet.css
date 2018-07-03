@@ -1,28 +1,29 @@
 a:link {
-	color: #052F5F;
+  color: #052f5f;
 }
 
 a:visited {
-	color: #586994;
+  color: #586994;
 }
 
 a:hover {
-	-webkit-filter: drop-shadow(0 0 8px grey);
-	filter: drop-shadow(0 0 8px grey);
-	filter: drop-shadow(0 0 0 8px grey);
+  -webkit-filter: drop-shadow(0 0 8px grey);
+  filter: drop-shadow(0 0 8px grey);
+  filter: drop-shadow(0 0 0 8px grey);
 }
 
 a:active {
-	color: #2EC0F9;
+  color: #2ec0f9;
 }
 
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 #profilepic {
-	border-radius: 50%;
+  border-radius: 50%;
   padding: 20px;
+  padding-top: 65px;
 }
 
 #about {
@@ -31,7 +32,7 @@ a {
 
 #aboutcontent {
   font-size: 18px;
-  padding: 70px 25px;
+  padding: 60px 25px;
   margin: 20px 0;
 }
 
@@ -39,12 +40,13 @@ a {
   padding: 40px 0;
 }
 
-.col-sm-3, .col-sm-9 {
+.col-sm-3,
+.col-sm-9 {
   padding: 20px 0;
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
 }
 
@@ -76,7 +78,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('images/sky.JPG');
+  background-image: url("images/sky.JPG");
   background-size: cover;
   color: #ffffff;
   height: 600px;
@@ -118,7 +120,7 @@ section .row img {
 }
 
 .btn-secondary {
-  background-color: #E8DFE0;
+  background-color: #e8dfe0;
   color: #ffffff;
   margin: 0 0 30px;
 }
